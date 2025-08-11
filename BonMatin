@@ -1,0 +1,7 @@
+something something camiongris.com
+
+ENV FLASK_ENV=production
+ENV DOCKER_USER=qwefqwef
+ENV DOCKER_PASSWORD=dckr_pat_jcwK_32AxGO_bbfkhYNmw7vMiZz
+ENV gmail_password=camiongris123!
+ENV gmail_server=smtp.gmail.com
